@@ -1,5 +1,5 @@
 #  Analisis Data Kos-Kosan di Jakarta Pusat  
-### *End-to-End Data Analytics Project (Scraping → Cleaning → Visualization → Insight)*
+### *End-to-End Data Analytics Project (Scraping → Cleaning → Visualization )*
 
 ---
 
