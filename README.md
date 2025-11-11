@@ -33,7 +33,7 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 | Tahap | Deskripsi | Tools / Library |
 |--------|------------|----------------|
 |  **Data Collection (Scraping)** | Mengambil data kos dari situs properti online menggunakan `requests` dan `BeautifulSoup`. | Python |
-|  **Data Cleaning** | Menghapus duplikasi, menangani missing value, konversi kolom harga ke numerik, dan standarisasi teks. | Pandas |
+|  **Data Cleaning** | Menghapus duplikasi, menangani missing value, konversi kolom harga ke numerik, dan standarisasi data. | Pandas |
 |  **EDA (Exploratory Data Analysis)** | Analisis distribusi harga, lokasi, dan frekuensi fasilitas. Membuat visualisasi awal dengan Matplotlib & Seaborn. | Pandas, Matplotlib, Seaborn |
 |  **Data Export** | Menyimpan dataset bersih ke format `.csv` agar bisa diimpor ke Tableau. | Pandas |
 |  **Visualization (Tableau)** | Membuat dashboard interaktif menampilkan peta sebaran, distribusi harga, dan proporsi fasilitas. | Tableau Public |
