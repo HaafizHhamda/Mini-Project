@@ -43,8 +43,8 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 ##  Visualisasi Dashboard Tableau
 
 **Dashboard Tableau:**  
-[ Lihat Dashboard di Tableau Public](#https://www.youtube.com/watch?v=8oUMAPPU-x8&list=RDzjZD-ibfhnU&index=27)  
-(*Tambahkan link Tableau Public kamu di sini setelah upload*)
+[ Lihat Dashboard di Tableau Public](https://www.youtube.com/watch?v=8oUMAPPU-x8&list=RDzjZD-ibfhnU&index=27)  
+
 
 **Komponen Dashboard:**
 -  **Map Chart:** Sebaran harga kos per kelurahan di Jakarta Pusat.  
