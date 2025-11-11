@@ -48,8 +48,8 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 
 **Komponen Dashboard:**
 -  **Map Chart:** Sebaran harga kos per kelurahan di Jakarta Pusat.  
--  **Bar Chart:** 10 wilayah dengan harga rata-rata tertinggi & terendah.  
--  **Pie Chart:** Proporsi fasilitas populer (AC, WiFi, Kamar Mandi Dalam, Parkir).  
+-  **Bar Chart:** Wilayah dengan harga rata-rata tertinggi & terendah.  
+-  **Pie Chart:** Proporsi fasilitas populer (AC, WiFi, Kamar Mandi Dalam).  
 
 ---
 
