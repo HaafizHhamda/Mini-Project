@@ -49,7 +49,7 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 **Komponen Dashboard:**
 -  **Map Chart** 
 -  **Bar Chart** 
--  **Pie Chart**   
+-  **Bubble Chart**   
 -  **Table**   
 
 ---
