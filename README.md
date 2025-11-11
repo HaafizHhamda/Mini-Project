@@ -43,7 +43,7 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 ##  Visualisasi Dashboard Tableau
 
 **Dashboard Tableau:**  
-[ Lihat Dashboard di Tableau Public](https://public.tableau.com/shared/4D9XH6PHN?:display_count=n&:origin=viz_share_link)  
+[ Lihat Dashboard di Tableau Public](https://public.tableau.com/views/DasboardKosan/Dashboard12?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 
 **Komponen Dashboard:**
