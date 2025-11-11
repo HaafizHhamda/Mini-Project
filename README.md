@@ -1,9 +1,9 @@
-# 🏠 Analisis Data Kos-Kosan di Jakarta Pusat  
+#  Analisis Data Kos-Kosan di Jakarta Pusat  
 ### *End-to-End Data Analytics Project (Scraping → Cleaning → Visualization → Insight)*
 
 ---
 
-## 🧭 Latar Belakang Cerita
+##  Latar Belakang Cerita
 
 Proyek ini berawal dari skenario sederhana namun nyata:  
 > *Seseorang baru saja mendapat pekerjaan di wilayah Jakarta Pusat, namun belum memiliki tempat tinggal sementara atau kos yang sesuai.*
@@ -16,7 +16,7 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 
 ---
 
-## 🎯 Tujuan Proyek
+##  Tujuan Proyek
 
 1. Mengumpulkan data kos-kosan di Jakarta Pusat melalui **web scraping**.  
 2. Membersihkan dan menstandarkan data agar siap dianalisis.  
@@ -28,44 +28,31 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 
 ---
 
-## 🧩 Alur Pengerjaan (End-to-End)
+##  Alur Pengerjaan (End-to-End)
 
 | Tahap | Deskripsi | Tools / Library |
 |--------|------------|----------------|
-| 1️⃣ **Data Collection (Scraping)** | Mengambil data kos dari situs properti online menggunakan `requests` dan `BeautifulSoup`. | Python |
-| 2️⃣ **Data Cleaning** | Menghapus duplikasi, menangani missing value, konversi kolom harga ke numerik, dan standarisasi teks. | Pandas |
-| 3️⃣ **EDA (Exploratory Data Analysis)** | Analisis distribusi harga, lokasi, dan frekuensi fasilitas. Membuat visualisasi awal dengan Matplotlib & Seaborn. | Pandas, Matplotlib, Seaborn |
-| 4️⃣ **Data Export** | Menyimpan dataset bersih ke format `.csv` agar bisa diimpor ke Tableau. | Pandas |
-| 5️⃣ **Visualization (Tableau)** | Membuat dashboard interaktif menampilkan peta sebaran, distribusi harga, dan proporsi fasilitas. | Tableau Public |
-| 6️⃣ **Insight & Recommendation** | Mengambil kesimpulan dan rekomendasi berdasarkan hasil visualisasi. | Tableau, Markdown |
+|  **Data Collection (Scraping)** | Mengambil data kos dari situs properti online menggunakan `requests` dan `BeautifulSoup`. | Python |
+|  **Data Cleaning** | Menghapus duplikasi, menangani missing value, konversi kolom harga ke numerik, dan standarisasi teks. | Pandas |
+|  **EDA (Exploratory Data Analysis)** | Analisis distribusi harga, lokasi, dan frekuensi fasilitas. Membuat visualisasi awal dengan Matplotlib & Seaborn. | Pandas, Matplotlib, Seaborn |
+|  **Data Export** | Menyimpan dataset bersih ke format `.csv` agar bisa diimpor ke Tableau. | Pandas |
+|  **Visualization (Tableau)** | Membuat dashboard interaktif menampilkan peta sebaran, distribusi harga, dan proporsi fasilitas. | Tableau Public |
 
 ---
 
-## 📊 Visualisasi Dashboard Tableau
+##  Visualisasi Dashboard Tableau
 
 **Dashboard Tableau:**  
-[🔗 Lihat Dashboard di Tableau Public](#)  
+[ Lihat Dashboard di Tableau Public](#)  
 (*Tambahkan link Tableau Public kamu di sini setelah upload*)
 
 **Komponen Dashboard:**
-- 🗺️ **Map Chart:** Sebaran harga kos per kelurahan di Jakarta Pusat.  
-- 📊 **Bar Chart:** 10 wilayah dengan harga rata-rata tertinggi & terendah.  
-- 🍩 **Donut Chart:** Proporsi fasilitas populer (AC, WiFi, Kamar Mandi Dalam, Parkir).  
-- 📈 **Histogram:** Distribusi harga kos (kisaran bawah – menengah – premium).  
+-  **Map Chart:** Sebaran harga kos per kelurahan di Jakarta Pusat.  
+-  **Bar Chart:** 10 wilayah dengan harga rata-rata tertinggi & terendah.  
+-  **Pie Chart:** Proporsi fasilitas populer (AC, WiFi, Kamar Mandi Dalam, Parkir).  
 
 ---
 
-## 💡 Hasil & Insight Utama
-
-- Rata-rata harga kos di Jakarta Pusat berada di kisaran **Rp X – Rp Y per bulan**.  
-- Wilayah dengan harga tertinggi: **Menteng dan Tanah Abang**, dengan rata-rata di atas **Rp Z juta/bulan**.  
-- Wilayah paling terjangkau: **Cempaka Baru dan Kemayoran**, dengan rata-rata di bawah **Rp A juta/bulan**.  
-- Fasilitas seperti **AC** dan **kamar mandi dalam** muncul lebih dari **60%** dari total listing, menjadi indikator utama kos premium.  
-- Kos dengan **lokasi dekat area bisnis atau transportasi umum** memiliki harga 25–30% lebih tinggi dibanding daerah residensial.  
-
-(*Isi angka setelah hasil analisis kamu di Pandas/Tableau*)
-
----
 
 ## 🧠 Tools & Teknologi
 
@@ -74,8 +61,6 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 | Web Scraping | Python (`requests`, `BeautifulSoup`) |
 | Data Cleaning & EDA | Pandas, Matplotlib, Seaborn |
 | Visualization | Tableau Public |
-| Documentation | Markdown, GitHub |
+| Documentation | GitHub |
 
 ---
-
-## 📁 Struktur Folder Project
