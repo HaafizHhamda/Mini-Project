@@ -43,7 +43,7 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 ##  Visualisasi Dashboard Tableau
 
 **Dashboard Tableau:**  
-[ Lihat Dashboard di Tableau Public](https://www.youtube.com/watch?v=8oUMAPPU-x8&list=RDzjZD-ibfhnU&index=27)  
+[ Lihat Dashboard di Tableau Public]([https://www.youtube.com/watch?v=8oUMAPPU-x8&list=RDzjZD-ibfhnU&index=27](https://public.tableau.com/shared/WJHQ3YT99?:display_count=n&:origin=viz_share_link))  
 
 
 **Komponen Dashboard:**
@@ -58,7 +58,7 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 
 | Tahap | Teknologi yang Digunakan |
 |--------|--------------------------|
-| Web Scraping | Python (`requests`, `BeautifulSoup`) |
+| Web Scraping | Python (`BeautifulSoup`) |
 | Data Cleaning & EDA | Pandas, Matplotlib, Seaborn |
 | Visualization | Tableau Public |
 | Documentation | GitHub |
