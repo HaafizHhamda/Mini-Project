@@ -71,7 +71,4 @@ Data kos-kosan dikumpulkan dari situs:
  [**Mamikos.com**](https://mamikos.com) — platform pencarian kos terbesar di Indonesia.  
 
 Data diperoleh melalui teknik *web scraping* untuk tujuan edukasi dan analisis data non-komersial.  
-Seluruh proses mengikuti prinsip **ethical scraping**:  
-- Tidak mengakses endpoint privat.  
-- Tidak membebani server secara berlebihan.  
-- Digunakan hanya untuk kepentingan pembelajaran (*educational purpose only*).
+
