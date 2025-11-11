@@ -43,7 +43,7 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 ##  Visualisasi Dashboard Tableau
 
 **Dashboard Tableau:**  
-[ Lihat Dashboard di Tableau Public](#)  
+[ Lihat Dashboard di Tableau Public](#https://www.youtube.com/watch?v=8oUMAPPU-x8&list=RDzjZD-ibfhnU&index=27)  
 (*Tambahkan link Tableau Public kamu di sini setelah upload*)
 
 **Komponen Dashboard:**
@@ -54,7 +54,7 @@ Proyek ini bertujuan membantu calon penyewa atau pekerja baru memahami kondisi p
 ---
 
 
-## 🧠 Tools & Teknologi
+##  Tools & Teknologi
 
 | Tahap | Teknologi yang Digunakan |
 |--------|--------------------------|
