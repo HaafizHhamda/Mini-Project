@@ -1,0 +1,237 @@
+nama_kosan,lokasi,type_kosan,fasilitas,harga
+ Kost Syarifa Tipe C , Cempaka Putih , Putri ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.575.000 
+ Kost Syarifa Tipe A , Cempaka Putih , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.125.000 
+ Kost Syarifa Tipe B , Cempaka Putih , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.965.000 
+ Kost Beranda Kanaya Tipe A , Senen , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.075.000 
+ Kost Rawasari 29 Tipe A , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur']", Rp1.173.000 
+ Kost Kramat Tipe D , Johar Baru , Campur ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.075.000 
+ Kost Palang Merah 7 Tipe A Cideng , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.601.000 
+ Kost Petojo Selatan 3 Tipe A Cideng , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.515.400 
+ Kost Bugenvil Tipe B , Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.525.000 
+ Kost Tipe C , Kecamatan Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.577.000 
+ Kost Pondok Sagre Kepu Tipe A , Kecamatan Senen , Campur ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.265.000 
+ Kost 15 Tipe A , Kecamatan Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.115.000 
+ Kost Aura Kwitang Tipe A , Senen , Putra ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.405.000 
+ Kost 89G Kwitang Tipe D , Senen , Putri ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp925.000 
+ Kost Pondok Madani Tipe A , Johar Baru , Campur ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.195.000 
+ Kost Ritha Tipe A , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.210.000 
+ Kost Rumah Sagre Tipe B , Kecamatan Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp3.400.600 
+ Kost Dwi Warna 18A Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.975.000 
+ Kost Tiga Nur Tipe C , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.375.000 
+ Kost Purnama Mangga Dua Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.005.000 
+ Kost Cozy Rawasari Tipe B , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.900.000 
+ Kost Prospera Living Tipe B , Senen , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.219.160 
+ Kost Sofia Thamrin Tipe D , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.965.000 
+ Kost Pondok Sagre Kepu Tipe D , Kecamatan Senen , Campur ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.665.000 
+ Kost Kepu 66 Tipe D , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.286.000 
+ Kost Dwi Warna 18A Tipe B , Sawah Besar , Campur ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.675.000 
+ Kost 33 Cempaka Baru Tipe D , Kemayoran , Putra ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp800.000 
+ Kost Elani Residence Tipe D , Kecamatan Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.497.750 
+ Kost Cut Nyak Dien Residence Tipe A , Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.725.000 
+ Kost Anisa Kebon Kacang 6 Tipe D , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.450.000 
+ Kost Juanda One Tipe B , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.525.000 
+ Kost Rap 18A Tipe A , Kemayoran , Campur ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.043.500 
+ Kost Bugenvil Tipe G , Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur']", Rp1.237.500 
+ Kost Bangau V Tipe A , Kemayoran , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.525.000 
+ Kost Suryopranoto Petojo Tipe B , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.325.000 
+ Kost Aipda Petamburan Tipe D , Tanah Abang , Putri ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp990.000 
+ Kost Kramat Tipe B , Johar Baru , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.724.000 
+ Kost Kebon Kacang Tipe A , Tanah Abang , Putri ,"['WiFi·', 'Kasur']", Rp1.431.500 
+ Kost Miracle Petamburan II Tipe A , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.725.000 
+ Kost Shafira Tipe A , Kemayoran , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur']", Rp1.577.000 
+ Kost Little Nest Tipe A , Johar Baru , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.915.000 
+ Kost Fidzh Tipe A , Johar Baru , Putra ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.425.000 
+ Kost Elani Residence Tipe B , Kecamatan Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.158.250 
+ Kost Baitussalam Tipe B , Cempaka Putih , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.600.000 
+ Kost Anisa Kebon Kacang 6 Tipe E , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.425.000 
+ Kost Tiga Nur Tipe B , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.771.000 
+ Kost Bugenvil Tipe F , Kemayoran , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.221.000 
+ Kost Maknyak Maria Tipe A , Gambir , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.331.400 
+ Kost Gunung Sahari XI Tipe B , Sawah Besar , Campur ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp790.000 
+ Kost Kebon Kacang Tipe B , Tanah Abang , Putri ,"['WiFi·', 'AC·', 'Kasur']", Rp1.589.000 
+ Kost Vanela 15 Tipe C , Kecamatan Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.875.000 
+ Kost Bella Vita Tipe C , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.400.000 
+ Kost Tiga Nur Tipe A , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.916.500 
+ Kost Lia Tipe E Sawah Besar Pusat , Jakarta , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur']", Rp1.850.000 
+ Kost Bangau V Tipe B , Kemayoran , Campur ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.275.000 
+ Kost 89G Kwitang Tipe C , Senen , Putri ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp995.000 
+ Kost Rumah Ceria Cideng Tipe A , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.760.000 
+ Kost The Hartonos Rawasari Tipe A , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.900.000 
+ Kost Cozy Rawasari Tipe A , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.802.500 
+ Kost Kanaya Tipe D , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.625.000 
+ Kost 28 Tipe A , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.221.000 
+ Kost R Sari Tipe A , Cempaka Putih , Campur ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp850.000 
+ Kost Rap 18A Tipe B , Kemayoran , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.405.000 
+ Kost GBU Houseroom Tipe A , Kecamatan Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.900.000 
+ Kost Juanda Omaika Tipe A , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.727.000 
+ Kost Bella Vita Tipe B Salemba , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.725.000 
+ Kost Dempo 9 Tipe B , Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.095.000 
+ Kost Hygge Hus Kampung Bali Tipe B , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.141.000 
+ Kost Shafira Tipe B , Kemayoran , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur']", Rp1.425.000 
+ Kost Kebon Kacang Tipe C , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur']", Rp2.025.000 
+ Kost Suryopranoto Petojo Tipe A , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.555.000 
+ Kost Mutiara 16B Tipe A Sumur Batu , Kecamatan Kemayoran , Campur ,"['AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp975.000 
+ Kost Lia Tipe A Sawah Besar Pusat , Jakarta , Campur ,"['WiFi·', 'Kasur']", Rp1.100.000 
+ Kost Rumah Sagre Tipe C , Kecamatan Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp3.815.000 
+ Kost Miracle Petamburan II Tipe B , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.771.000 
+ Kost Blueberry 1 Tipe C , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.075.000 
+ Kost Sofia Thamrin Tipe B , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.693.000 
+ Kost 89G Kwitang Tipe B , Senen , Putri ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.125.000 
+ Kost Juanda One Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.521.000 
+ Kost De 9 House Tipe A , Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.343.400 
+ Kost Baitussalam Tipe A , Kemayoran , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.840.000 
+ Kost Nest Cikini Tipe B , Menteng , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.025.000 
+ Kost Batik Tipe B Bendungan Hilir , Kecamatan Tanah Abang , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.975.000 
+ Kost GBU Houseroom Tipe C , Kecamatan Kemayoran , Campur ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.187.500 
+ Kost Sofia Thamrin Tipe C , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.450.000 
+ Kost 33 Cempaka Baru Tipe C , Kemayoran , Putra ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp920.000 
+ Kost Elani Residence Tipe A , Kecamatan Senen , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk']", Rp1.624.750 
+ Kost Lia Tipe C Sawah Besar Pusat , Jakarta , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur']", Rp1.800.000 
+ Kost Kanaya Tipe E , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.868.000 
+ Kost Alaya Pejompongan Tipe A , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.937.400 
+ Kost Lia Tipe B Sawah Besar Pusat , Jakarta , Campur ,"['WiFi·', 'Kasur']", Rp1.200.000 
+ Kost Vanela 8 Benhil Tipe A , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.000.000 
+ Kost Harmony Tipe B , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.375.000 
+ Kost Rumah Sagre Tipe A , Kecamatan Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.896.200 
+ Kost Bright Tipe B , Johar Baru , Putri ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp970.000 
+ Kost Petojo 5 Roxy Tipe A , Kecamatan Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.773.000 
+ Kost Vanela 8 Benhil Tipe C , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.525.000 
+ Kost Vanela 15 Tipe B , Kecamatan Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp3.095.000 
+ Kost 15 Tipe C , Kecamatan Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.525.000 
+ Kost Petojo Selatan 12 Tipe B , Gambir , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.577.000 
+ Kost Anisa Kebon Kacang 6 Tipe C , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.675.000 
+ Kost GBU Houseroom Tipe B , Kecamatan Kemayoran , Campur ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.567.500 
+ Kost Vanela 8 Benhil Tipe B , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.875.000 
+ Kost Joy Kramat Sentiong 85 Tipe A , Kecamatan Senen , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.865.000 
+ Kost Batik Tipe A Bendungan Hilir , Kecamatan Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.353.000 
+ Kost Kramat Tipe C , Johar Baru , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.317.000 
+ Kost Kramat Kwitang 30 Tipe B , Kecamatan Senen , Putra ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.495.000 
+ Kost Greenhome Tipe C Bendungan Hilir , Kecamatan Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.975.000 
+ Kost Pondok Sagre Kepu Tipe C , Kecamatan Senen , Campur ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.615.000 
+ Kost Bendungan Hilir 95 Tipe A , Kecamatan Tanah Abang , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.525.000 
+ Kost Blueberry 1 Tipe B , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.185.000 
+ Kost Yulimar Petamburan 5 Tipe A , Tanah Abang , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.240.000 
+ Kost Greenhome Tipe A Bendungan Hilir , Kecamatan Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.625.000 
+ Kost Alaya Pejompongan Tipe B , Tanah Abang , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.465.000 
+ Kost Greenhome Tipe B Bendungan Hilir , Kecamatan Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.375.000 
+ Kost Vanela 15 Tipe A , Kecamatan Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp3.205.000 
+ Kost Hasyim Ashari Tipe A Cideng , Kecamatan Gambir , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.965.000 
+ Kost Elani Residence Tipe E , Kecamatan Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp3.550.000 
+ Kost Palang Merah 7 Tipe B Cideng , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.159.000 
+ Kost Mutiara 16B Tipe B Sumur Batu , Kecamatan Kemayoran , Campur ,"['AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp849.500 
+ Kost R Sari Tipe B , Cempaka Putih , Campur ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp750.000 
+ Kost Petojo Selatan 3 Tipe B Cideng , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.505.000 
+ Kost Bella Vita Tipe A Salemba , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.925.000 
+ Kost Purnama Mangga Dua Tipe B , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.465.000 
+ Kost Pondok Anugrah Tipe C , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.925.000 
+ Kost Kramat Kwitang 30 Tipe A , Kecamatan Senen , Putra ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.751.600 
+ Kost Elani Residence Tipe C , Kecamatan Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.982.750 
+ Kost Prospera Living Tipe C , Senen , Campur ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp851.160 
+ Kost SB Living Tipe B , Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.000.000 
+ Kost Pegangsaan A30 Tipe A , Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.520.000 
+ Kost Rumah Ceria Cideng Tipe C , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.300.000 
+ Kost Aipda Petamburan Tipe B , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.235.000 
+ Kost TM Urban Stay Tipe B , Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.000.000 
+ Kost Bugenvil Tipe H , Kemayoran , Campur ,"['WiFi·', 'Kasur']", Rp801.000 
+ Kost Pondok Sagre Kepu Tipe B , Kecamatan Senen , Campur ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.365.000 
+ Kost Petojo 25 Tipe D , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.375.000 
+ Kost Sofia Thamrin Tipe A , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.015.000 
+ Kost Laura Tipe D , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.261.750 
+ Kost W One Pasar Baru Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp3.245.000 
+ Kost Kepu 66 Tipe E , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.189.000 
+ Kost Petojo 25 Tipe C , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.465.000 
+ Kost Kingkit IV Tipe B , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.635.000 
+ Kost Laura Tipe C , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.450.000 
+ Kost Anisa Kebon Kacang 6 Tipe B , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.825.000 
+ Kost Kanaya Tipe A , Kecamatan Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp4.175.000 
+ Kost Dempo 9 Tipe D , Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.690.000 
+ Kost Nabila Tipe C , Kecamatan Cempaka Putih , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp801.000 
+ Kost W One Pasar Baru Tipe C , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.417.000 
+ Kost Aipda Petamburan Tipe A , Tanah Abang , Putri ,"['WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.500.000 
+ Kost House of Joy Tipe C , Sawah Besar , Putra ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.465.000 
+ Kost Juanda Omaika Tipe B , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.825.000 
+ Kost 15 Tipe B , Kecamatan Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.425.000 
+ Kost Nabila Tipe A , Kecamatan Cempaka Putih , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.497.000 
+ Kost Pondok Anugrah Tipe B , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.125.000 
+ Kost Bella Vita Tipe E , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.025.000 
+ Kost Ono Tipe C , Cempaka Putih , Campur ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp849.500 
+ Kost TM Urban Stay Tipe A , Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.300.000 
+ Kost Kramat Tipe A , Johar Baru , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp2.075.000 
+ Kost Behring 41 Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.500.000 
+ Kost Kepu 66 Tipe B , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.543.000 
+ Kost Petojo 25 Tipe B , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.725.000 
+ Kost 33 Cempaka Baru Tipe A , Kemayoran , Putra ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.300.000 
+ Kost Cempaka 15 Tipe B , Cempaka Putih , Putra ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp761.000 
+ Kost Bugenvil Tipe A , Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.625.000 
+ Kost E 18 Tipe B , Cempaka Putih , Putra ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp849.500 
+ Kost Ono Tipe D , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.334.500 
+ Kost D Parama Kelinci Raya Tipe C , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.150.000 
+ Kost Bugenvil Tipe C , Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.425.000 
+ Kost Kanaya Tipe B , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.125.000 
+ Kost Behring 41 Tipe B , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.000.000 
+ Kost W One Kebon Kacang Tipe B , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.969.000 
+ Kost Batik Tipe C Bendungan Hilir , Tanah Abang , Putri ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.725.000 
+ Kost Ono Tipe A , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.189.000 
+ Kost Petojo 25 Tipe A , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp2.025.000 
+ Kost Cempaka Baru III Tipe A , Kemayoran , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.700.000 
+ Kost Kingkit IV Tipe C , Gambir , Campur ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.589.000 
+ Kost Dwi Warna 18A Tipe C , Sawah Besar , Campur ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.075.000 
+ Kost Cempaka 15 Tipe A , Cempaka Putih , Putra ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp849.500 
+ Kost Pondok Anugrah Tipe A , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.417.000 
+ Kost Utara 30 Tipe B , Kemayoran , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.510.000 
+ Kost Bright Tipe A , Johar Baru , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.285.000 
+ Kost Harmony Tipe A , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.475.000 
+ Kost Prospera Living Tipe A , Senen , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.424.000 
+ Kost E 18 Tipe C , Cempaka Putih , Putra ,"['WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp752.500 
+ Kost Kepu 66 Tipe A , Kemayoran , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.771.000 
+ Kost Rumah Ceria Cideng Tipe D , Gambir , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.325.000 
+ Kost Dinor Living Tipe B Bendungan Hilir , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.815.000 
+ Kost One Residence Tipe A , Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.325.000 
+ Kost Nabila Tipe B , Kecamatan Cempaka Putih , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.125.000 
+ Kost E 18 Tipe A , Cempaka Putih , Putra ,"['K. Mandi Dalam·', 'WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.260.000 
+ Kost Anisa Kebon Kacang 6 Tipe F , Tanah Abang , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.115.000 
+ Kost GBU Houseroom Tipe D , Kecamatan Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.185.000 
+ Kost Miracle Petamburan II Tipe C , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.875.000 
+ Kost TM Urban Stay Tipe C , Kemayoran , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.900.000 
+ Kost Tipe B , Kecamatan Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.674.000 
+ Kost Dempo 9 Tipe C , Menteng , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.075.000 
+ Kost Ono Tipe B , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.175.000 
+ Kost 33 Cempaka Baru Tipe B , Kemayoran , Putra ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.200.000 
+ Kost Hygge Hus Kampung Bali Tipe A , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.353.000 
+ Kost Kanaya Tipe C , Cempaka Putih , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.875.000 
+ Kost Ahava Gajah Mada Satu Enam Tipe A , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.980.000 
+ Kost D Parama Kelinci Raya Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.925.000 
+ Kost W One Kebon Kacang Tipe A , Tanah Abang , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp4.349.000 
+ Kost Pondok Madani Tipe B , Johar Baru , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.555.000 
+ Kost SB Living Tipe A , Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.921.880 
+ Kost Tiga Nur Tipe D , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.355.000 
+ Kost Aipda Petamburan Tipe C , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.261.000 
+ Kost 89G Kwitang Tipe A , Senen , Putri ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.175.000 
+ Kost Utara 30 Tipe A , Kemayoran , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.775.000 
+ Kost Dinor Living Tipe A Bendungan Hilir , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.995.000 
+ Kost Petojo Selatan 12 Tipe A , Gambir , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.925.000 
+ Kost Laura Tipe A , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.875.000 
+ Kost Anisa Kebon Kacang 6 Tipe A , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp3.025.000 
+ Kost House of Joy Tipe B , Sawah Besar , Putra ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.725.000 
+ Kost Bugenvil Tipe D , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.525.000 
+ Kost Gunung Sahari XI Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'Kasur·', 'Akses 24 Jam']", Rp1.275.000 
+ Kost Kingkit IV Tipe A , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.819.000 
+ Kost W One Pasar Baru Tipe B , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.693.000 
+ Kost Dinor Living Tipe C Bendungan Hilir , Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.725.000 
+ Kost Anisa Kebon Kacang 6 Tipe G , Tanah Abang , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp2.425.000 
+ Kost House of Joy Tipe A , Sawah Besar , Putra ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.825.000 
+ Kost Rumah Ceria Cideng Tipe B , Gambir , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.300.000 
+ Kost D Parama Kelinci Raya Tipe B , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.312.000 
+ Kost Lia Tipe D Sawah Besar Pusat , Jakarta , Campur ,"['WiFi·', 'Kasur']", Rp902.500 
+ Kost Bugenvil Tipe E , Kemayoran , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur']", Rp1.313.000 
+ Kost TM Urban Stay Tipe D , Kemayoran , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.800.000 
+ Kost Nest Cikini Tipe A , Menteng , Campur ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.525.000 
+ Kost Baitussalam Tipe A , Cempaka Putih , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.800.000 
+ Kost Bella Vita Tipe D , Senen , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.305.000 
+ Kost Laura Tipe B , Kemayoran , Putri ,"['WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.566.000 
+ Kost Cempaka 15 Tipe C , Cempaka Putih , Putra ,"['WiFi·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp715.000 
+ Kost Dempo 9 Tipe A , Menteng , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp3.325.000 
+ Kost Kepu 66 Tipe C , Kemayoran , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.577.000 
+ Kost Graha 12 Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp1.825.000 
+ Kost Blueberry 1 Tipe A , Sawah Besar , Campur ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kloset Duduk·', 'Kasur·', 'Akses 24 Jam']", Rp2.575.000 
+ Kost Tipe A , Kecamatan Tanah Abang , Putri ,"['K. Mandi Dalam·', 'WiFi·', 'AC·', 'Kasur·', 'Akses 24 Jam']", Rp1.771.000 
